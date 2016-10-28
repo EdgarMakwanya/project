@@ -1,0 +1,40 @@
+
+.image featured {
+  margin: 2.5%;
+}
+
+h1 img{width: 30px;
+padding-top: 10px;
+float: left;
+}
+
+header {
+  float: left;
+}
+
+#main{
+padding:auto;
+margin:auto;
+text-align:center;
+}
+
+#header {
+  background-color: #1C0438;
+}
+
+ }
+ header h2 {
+   color: #000;
+ }
+
+
+.alt {
+  position:sticky;;
+}
+
+#footer {
+  clear: both;
+}
+
+body {
+	background:url('../images/banner.jpg') no-repeat 0px 0px;
