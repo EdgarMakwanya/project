@@ -6,7 +6,7 @@
 		<p>Hi,welcome to the official airline website,feel free to book.</p>
 		<ul class="actions">
 			<li><a href="book.php" class="button special">Book here</a></li>
-			<li><a href="#" class="button">Learn More</a></li>
+			<li><a href="first class.php" class="button">Learn More</a></li>
 		</ul>
 	</section>
 
